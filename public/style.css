@@ -35,6 +35,7 @@
 }
 
 .hat-ribbon {
+    color: #EF3C3C;
     fill: #EF3C3C;
 }
 
@@ -167,4 +168,9 @@
         opacity: 1;
         -webkit-transform: scale(1,1);
     }
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: top;
 }
